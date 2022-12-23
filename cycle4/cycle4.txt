@@ -1,0 +1,8 @@
+1) ceate rectangle class wit attributes length 
+& breadth method to find areea and perimeter 
+
+2) create a bank account on which member account no , name ,type of account &balance write constructor & method to deposite at the bank &withdraw any account from the bank
+
+3) create a class publisher, derive class book from publisher with attribute title and author, derive class python from book with attributes price& no of pages.write a program that displays information about a python book, use base class constructor & method overloading.
+
+
